@@ -1,0 +1,89 @@
+.buttons1 {
+    border: 1px solid;
+    width: 85px;
+
+    padding: 3%;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.buttons2 {
+    border: 1px solid;
+    width: 95px;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.nav {
+    display: flex;
+}
+
+.bungkus {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 500px;
+
+}
+
+.atasan {
+    display: flex;
+    margin: 2%;
+    align-items: center;
+    font-size: 25px;
+}
+
+.judul {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+
+}
+
+.judul a {
+    text-decoration: none;
+    color: black;
+
+}
+.jeno1{
+    margin-left:100px;
+    margin-top: 150px;
+    font-size: 40px;
+    color: blue;
+}
+.jeno2{
+        margin-left:100px;
+        margin-top: 20px;
+        font-size: 20px;
+}
+.bawah1 {
+text-decoration: none;
+}
+
+
+.bawah2 {
+    border: 2px solid;
+    border-color: rgb(14, 182, 14);
+    padding: 3px;
+    background-color: rgb(14, 182, 14);
+    border-radius: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+.kanan{
+    margin-top: 15px;
+    position: absolute;
+    top: 230px;
+    left: "500px";
+    /* width: "100";    */
+}
+.pon {
+    width: 400px;
+    margin-left: 1000px;
+}
+
+.jaemin{
+    margin-left: 98px;
+    margin-top: 95px;
+
+}
